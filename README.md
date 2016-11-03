@@ -1,2 +1,2 @@
 # puppet-master
-To maintain the puppet modules - New
+This repository is to manitain the puppet module 
